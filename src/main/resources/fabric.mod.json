@@ -8,25 +8,25 @@
     "MattiDragon"
   ],
   "contact": {
-    "sources": "https://github.com/MattiDragon/ExtendedDrawers",
-    "website": "https://modrinth.com/mod/extended-drawers",
-    "issues": "https://github.com/MattiDragon/ExtendedDrawers/issues"
+    "sources": "https://github.com/floder91/BetterFabricDrawers",
+    "website": "https://srv.medien-fm.de/",
+    "issues": "https://github.com/floder91/BetterFabricDrawers/issues"
   },
   "license": "Apache-2.0",
   "icon": "icon.png",
   "environment": "*",
   "entrypoints": {
     "client": [
-      "io.github.mattidragon.extendeddrawers.client.ExtendedDrawersClient"
+      "io.github.floder91.betterfabricdrawers.client.BetterFabricDrawersClient"
     ],
     "main": [
-      "io.github.mattidragon.extendeddrawers.ExtendedDrawers"
+      "io.github.floder91.betterfabricdrawers.BetterFabricDrawers"
     ],
     "preLaunch": [
-      "io.github.mattidragon.extendeddrawers.ExtendedDrawersPreLaunch"
+      "io.github.floder91.betterfabricdrawers.BetterFabricDrawersPreLaunch"
     ],
     "fabric-datagen": [
-      "io.github.mattidragon.extendeddrawers.datagen.ExtendedDrawersDatagen"
+      "io.github.floder91.betterfabricdrawers.datagen.BetterFabricDrawersDatagen"
     ]
   },
   "mixins": [
