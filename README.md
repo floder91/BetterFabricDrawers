@@ -57,3 +57,5 @@ Please note: Large capacity multipliers can lead to crashes, lags or broken worl
 ## Credits
 Source: Extended Drawers
 Fork from: https://github.com/MattiDragon/ExtendedDrawers || https://www.curseforge.com/minecraft/mc-mods/extended-drawers
+
+# Changes are accepted with reservation from "MattiDragon/ExtendedDrawers".
