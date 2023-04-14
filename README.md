@@ -40,16 +40,11 @@ The standard capacity has been increased and can be changed in the config.
 
 The parameters have been added: `config\extended_drawers\common.properties`
 
-- How many items drawers are able to hold
-`defaultCapacity = 2048`
-- Multiplier for the T1 upgrade, Default: 2*2
-`CapacityMultiplierT1 = 4`
-- Multiplier for the T2 upgrade, Default: 4*4
-`CapacityMultiplierT2 = 16`
-- Multiplier for the T3 upgrade, Default: 8*8
-`CapacityMultiplierT3 = 64`
-- Multiplier for the T4 upgrade, Default: 16*16
-`CapacityMultiplierT4 = 256`
+- How many items drawers are able to hold: `defaultCapacity = 2048`
+- Multiplier for the T1 upgrade, Default: 2*2: `CapacityMultiplierT1 = 4`
+- Multiplier for the T2 upgrade, Default: 4*4: `CapacityMultiplierT2 = 16`
+- Multiplier for the T3 upgrade, Default: 8*8: `CapacityMultiplierT3 = 64`
+- Multiplier for the T4 upgrade, Default: 16*16: `CapacityMultiplierT4 = 256`
 
 **Please note: Large capacity multipliers can lead to crashes, lags or broken world(s).**
 
